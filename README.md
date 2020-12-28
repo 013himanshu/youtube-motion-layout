@@ -1,2 +1,2 @@
-# youtube-motion-layout
+# Youtube MotionLayout
 **A youtube motion layout clone.**
